@@ -14,4 +14,4 @@ The project is entirely for my personal preference and knowledge refresher cours
     * Hash Table
     * Graph
 4. Sorting Algorithms 
-5. The list will be added along the way :simple_smile: :simple_smile:
+5. The list will be added along the way  :simple_smile:   :simple_smile:
