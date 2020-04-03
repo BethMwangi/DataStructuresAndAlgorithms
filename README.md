@@ -1,4 +1,4 @@
-# DataStructuresAndAlgorithms
+# DataStructures And Algorithms
 
 ### What is this project about?
 Data structures is a key fundamental tool in computer science and describes different ways in how to store data. In this project, I will implement an cover the algorithms and data structures in Python with a mix of theory and code implementation.
@@ -14,4 +14,11 @@ The project is entirely for my personal preference and knowledge refresher cours
     * Hash Table
     * Graph
 4. Sorting Algorithms 
-5. The list will be added along the way :simple_smile: :simple_smile:
+5. The list will be added along the way 
+
+
+## Authors
+
+* **Beth Mwangi** - *Initial work* - [BethMwangi](https://github.com/BethMwangi)
+
+### Acknowledgments
