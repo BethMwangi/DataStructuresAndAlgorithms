@@ -22,3 +22,7 @@ The project is entirely for my personal preference and knowledge refresher cours
 * **Beth Mwangi** - *Initial work* - [BethMwangi](https://github.com/BethMwangi)
 
 ### Acknowledgments
+
+* **[Brilliant.org](https://brilliant.org/)**
+* **[LeetCode](https://leetcode.com/)**
+
