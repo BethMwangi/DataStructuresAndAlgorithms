@@ -16,8 +16,8 @@ one-dimentional-array is also known as a linear array.
 
 
 ### Basic operations in an Array 
-* Insertion
-* Deletion
-* Traverse
-* Search
-* Update
+* Insertion - Adding an element at a given index in array
+* Deletion - Deleting an element at a given index in the array
+* Traverse - This prints all the elements in the array one by one
+* Search - This searches an element at a given index or by the value in the array
+* Update - Updates the element at a given index in the array 
