@@ -39,3 +39,10 @@ class Solution:
 p = Solution()
 print(p.dominantIndex([3, 6, 1, 0]))
 print(p.dominantIndex([1, 2, 3, 4]))
+
+
+# Complexity Analysis
+
+# Time Complexity: O(N) where N is the length of nums.
+
+# Space Complexity: O(1) the space used by our int variables.
